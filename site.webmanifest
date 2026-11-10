@@ -1,0 +1,14 @@
+{
+ "name": "Shafi Chowdhury",
+ "short_name": "Shafi Chowdhury",
+ "icons": [
+  {
+   "src": "assets/img/favicon.svg",
+   "type": "image/svg+xml",
+   "sizes": "any"
+  }
+ ],
+ "theme_color": "#F5F3EF",
+ "background_color": "#F5F3EF",
+ "display": "browser"
+}

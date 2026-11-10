@@ -1,0 +1,18 @@
+# Shafi Chowdhury
+
+> Personal website of Shafi Chowdhury, Founder and Managing Director of Shafi Consultancy Ltd. (founded 2001), with approximately 33 years of experience in the pharmaceutical industry across clinical statistical programming, clinical research and pharmaceutical operations.
+
+## Key facts
+- Name: Shafi Chowdhury
+- Role: Founder and Managing Director, Shafi Consultancy Ltd.
+- Company founded: 2001 (https://www.shaficonsultancy.com/)
+- Industry experience: approximately 33 years in the pharmaceutical industry
+- Fields: clinical statistical programming, clinical trial reporting, CDISC standards (SDTM, ADaM), PK/PD programming, CRO services, business leadership
+
+## Pages
+- [About](https://www.shafichowdhury.com/about.html): biography and career milestones
+- [Expertise](https://www.shafichowdhury.com/expertise.html): areas of expertise
+- [Leadership](https://www.shafichowdhury.com/leadership.html): founding and leading Shafi Consultancy
+- [Insights](https://www.shafichowdhury.com/insights.html): articles (in preparation)
+- [Speaking & Events](https://www.shafichowdhury.com/speaking.html): conferences and contributions
+- [Contact](https://www.shafichowdhury.com/contact.html)
